@@ -1,7 +1,7 @@
 # HTML2
 TP Skrollex
 
-Ángeles, te pego acá el index con los cambios que hice por las rutas de los archivos css y las imágenes. No lo puedo sincronizar porque ya creaste un index vos entonces se superpondrían. Si podés pega esto en tu index y sincronizalo así nos queda armado. Faltaría toda la parte de js para que tenga interactividad la página.
+Ángeles, te pego acá el index con los cambios que hice por las rutas de los archivos css y las imágenes. No lo puedo sincronizar porque ya creaste un index vos entonces se superpondrían. Si podés pega esto en tu index y sincronizalo así nos queda armado. Faltaría toda la parte de js para que tenga interactividad la página. PD: ponelo en raw para poder ver el código ;)
 
 <!DOCTYPE html>
 <html lang="en-US" class="background-100-e">
